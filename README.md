@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm a software engineering student at Nottingham Trent university.
 
-Currently working on: - Fitness mobile application
+Currently working on: - Micro enterprise management system
 
 Currently learning: React.js
 
