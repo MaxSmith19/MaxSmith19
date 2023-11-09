@@ -7,10 +7,6 @@ I'm Max, a First-Class Software Engineering Graduate passionate about creating i
 
 🌐 **Contact:** Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/m4x-smith/) or drop me an email at smithmax861@gmail.com
 
-**GitHub Stats:**
-
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxSmith19&count_private=true&show_icons=true&theme=synthwave)
-
 **Top Languages:**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSmith19&layout=compact&theme=synthwave)
