@@ -15,3 +15,6 @@ I'm Max, a First-Class Software Engineering Graduate passionate about creating i
 - [Project 1: My University Dissertation](https://github.com/MaxSmith19/Final-year-project) - A REACT website created using the MERN Stack, Mongo, Express, react and Node. It can be hosted on Heroku when its in production.
 
 Thanks for visiting my GitHub profile! 😄
+
+**Current Project:**
+- [LegoPI](https://github.com/MaxSmith19/legoPI) - An automation project to aid those who want to invest and sell in lego sets (Yes, you heard that right!). Currently utilising restful APIs in Express and Flask to scrape and return data
